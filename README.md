@@ -1,2 +1,1 @@
-# diabetesNeuralNetwork
-A neural network using Keras that classifies risk for diabetes based on health data.
+Machine learning project. Creation of a neural network. Classification of the development of diabetes
